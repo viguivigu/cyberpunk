@@ -62,7 +62,6 @@ body{
 }
 .yelbox{
 	padding: 30px 40px;
-	display: absolute;
 }
 .yelboxtxt{
 	font-size: 65px;
@@ -306,7 +305,6 @@ body{
 .cdprojekt{
 	margin-left: 50px;
 	width: 200px;
-	height: 49.2png;
 }
 #footpt2{
 	display: flex;
